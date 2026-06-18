@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="assets/cline-logo.png" alt="CLINE logo" width="220">
+  <img src="cline-logo.png" alt="CLINE logo" width="220">
 </p>
+
 
 # CLINE
 
